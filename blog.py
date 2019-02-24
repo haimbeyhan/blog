@@ -9,7 +9,7 @@ blogposts = [
         'date_posted': 'April 20, 2018'
     },
     {
-        'author': 'Lea Schafer',
+        'author': 'Chris Schafer',
         'title': 'Blog Post 2',
         'content': 'Second post content',
         'date_posted': 'November 15, 2018'
