@@ -1,7 +1,7 @@
 
 
-$ docker run -d -p 5500:5000 --name blog blog
+$ docker run -d -p 5000:5000 --name blog blog
 
 In browser
-http://localhost:5500/
+http://localhost:5000/
 
